@@ -13,7 +13,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/goran-paunovic/club-catalog-config
+          uri: https://github.com/goran-paunovic/clubs-configuration
           default-label: main
           timeout: 5
           clone-on-start: true
